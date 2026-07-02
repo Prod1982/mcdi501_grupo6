@@ -116,5 +116,7 @@ Resultados preliminares
 El análisis permitió caracterizar estadísticamente el conjunto de datos Framingham Heart Study mediante técnicas descriptivas e inferenciales.
 
 Los resultados evidenciaron diferencias estadísticamente significativas tanto en la presión arterial sistólica entre personas con y sin enfermedad coronaria como en los niveles de glucosa entre personas con y sin diabetes. Asimismo, el análisis de correlaciones y las estimaciones mediante intervalos de confianza aportaron evidencia complementaria sobre el comportamiento de las principales variables clínicas.
+
 Esta caracterización establece el fundamento metodológico para las siguientes etapas, enfocadas en validar la estabilidad de las estimaciones mediante remuestreo (bootstrapping / cross-validation) antes de proceder con el desarrollo de los modelos predictivos de riesgo cardiovascular.
+
 Estos resultados constituyen la base metodológica para las siguientes etapas del proyecto, donde se validará la estabilidad de las estimaciones mediante técnicas de remuestreo y se desarrollarán modelos predictivos para el análisis del riesgo cardiovascular.

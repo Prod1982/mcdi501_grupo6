@@ -1,0 +1,17 @@
+Variable,Tipo técnico,Naturaleza estadística,Uso en el análisis
+male,int64,Binaria nominal,Caracterización demográfica
+age,int64,Cuantitativa discreta,Variable clínica/demográfica
+education,float64,Ordinal,Nivel educativo
+currentSmoker,int64,Binaria nominal,Hábito de tabaquismo
+cigsPerDay,float64,Cuantitativa discreta,Intensidad de consumo de tabaco
+BPMeds,float64,Binaria nominal,Tratamiento farmacológico
+prevalentStroke,int64,Binaria nominal,Antecedente clínico
+prevalentHyp,int64,Binaria nominal,Antecedente clínico
+diabetes,int64,Binaria nominal,Condición clínica
+totChol,float64,Cuantitativa continua,Variable biomédica
+sysBP,float64,Cuantitativa continua,Variable principal de contraste
+diaBP,float64,Cuantitativa continua,Variable biomédica
+BMI,float64,Cuantitativa continua,Variable biomédica
+heartRate,float64,Cuantitativa continua,Variable biomédica
+glucose,float64,Cuantitativa continua,Variable principal de contraste
+TenYearCHD,int64,Binaria objetivo,Variable objetivo
