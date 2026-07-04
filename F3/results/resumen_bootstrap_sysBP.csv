@@ -1,0 +1,2 @@
+metodo,variable,estadistico,media_bootstrap,ic_95_inferior,ic_95_superior,n_remuestreos,semilla
+Bootstrap,sysBP,Media,132.45666525091477,131.7460533193936,133.15931129116572,10000,42

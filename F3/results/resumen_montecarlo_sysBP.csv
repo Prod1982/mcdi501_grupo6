@@ -1,0 +1,2 @@
+metodo,variable,media_observada,desviacion_observada,media_simulada,error_estandar_mc,ic_95_inferior,ic_95_superior,probabilidad_sysBP_mayor_igual_140,n_simulaciones,semilla
+Monte Carlo,sysBP,132.45491374803973,22.086416566835837,132.2285307298877,0.22226358014872713,131.79289411279618,132.6641673469792,0.3629,10000,42
