@@ -1,0 +1,5 @@
+Variables,Correlación,Intensidad,IC inferior,IC superior,Robusta
+age - sysBP,0.394,Moderada,0.369,0.419,Sí
+sysBP - diaBP,0.784,Fuerte,0.769,0.799,Sí
+BMI - glucose,0.087,Débil,0.043,0.132,Sí
+totChol - sysBP,0.209,Débil,0.179,0.238,Sí
