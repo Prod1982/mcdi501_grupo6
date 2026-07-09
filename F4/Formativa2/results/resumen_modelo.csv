@@ -1,0 +1,8 @@
+﻿Indicador,Valor
+Número de predictores,5.0
+Variables significativas,5.0
+Accuracy,0.8523
+Precision,0.6471
+Recall,0.0659
+F1-score,0.1196
+AUC,0.7468
