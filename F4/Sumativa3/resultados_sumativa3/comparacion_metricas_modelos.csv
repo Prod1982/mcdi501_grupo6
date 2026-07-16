@@ -1,0 +1,7 @@
+Modelo,Conjunto,Accuracy,Precision,Recall,F1,AUC
+Modelo 1 - S1/S2 ponderado,Entrenamiento,0.677,0.2751,0.6874,0.3929,0.7309
+Modelo 1 - S1/S2 ponderado,Prueba,0.6651,0.2495,0.601,0.3526,0.698
+Modelo 2 - Stepwise ponderado,Entrenamiento,0.6814,0.2787,0.6896,0.3969,0.7374
+Modelo 2 - Stepwise ponderado,Prueba,0.6612,0.2531,0.6321,0.3615,0.7025
+Modelo 3 - AIC ponderado,Entrenamiento,0.6814,0.2787,0.6896,0.3969,0.7374
+Modelo 3 - AIC ponderado,Prueba,0.6612,0.2531,0.6321,0.3615,0.7025

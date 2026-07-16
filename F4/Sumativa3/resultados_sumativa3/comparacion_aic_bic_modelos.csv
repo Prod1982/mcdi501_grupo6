@@ -1,0 +1,4 @@
+Modelo,Cantidad de predictores,Variables,AIC,BIC
+Modelo 1 - S1/S2 ponderado,6,"age, sysBP, diaBP, BMI, glucose, male",3619.6927,3661.6575
+Modelo 2 - Stepwise ponderado,6,"age, sysBP, totChol, glucose, male, currentSmoker",3584.5655,3626.5303
+Modelo 3 - AIC ponderado,6,"age, sysBP, totChol, glucose, male, currentSmoker",3584.5655,3626.5303

@@ -1,0 +1,4 @@
+Estrategia,N entrenamiento,N prueba común,Prevalencia entrenamiento,Accuracy,Precision,Recall,F1,AUC
+Eliminación completa,2539,1117,0.1516,0.6714,0.2616,0.6221,0.3683,0.7085
+Imputación simple,2966,1117,0.1521,0.6688,0.2632,0.6395,0.3729,0.7078
+Imputación por regresión,2966,1117,0.1521,0.6697,0.2649,0.6453,0.3756,0.7079

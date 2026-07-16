@@ -1,0 +1,13 @@
+Elemento,Resultado
+Modelo seleccionado,Modelo 2 - Stepwise ponderado
+Variables finales,"age, sysBP, totChol, glucose, male, currentSmoker"
+Observaciones entrenamiento,2966
+Observaciones prueba,1272
+Accuracy prueba,0.6612
+Precision prueba,0.2531
+Recall prueba,0.6321
+F1 prueba,0.3615
+AUC prueba,0.7025
+VIF máximo,1.537
+Remuestras bootstrap,10000
+Estrategia principal de faltantes,Imputación por regresión

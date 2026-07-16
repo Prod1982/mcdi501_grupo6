@@ -1,0 +1,5 @@
+Variable continua,Término evaluado,Coeficiente término,p-valor,Conclusión
+age,age_x_log,-0.207909777899169,0.0007806076567326542,Posible no linealidad
+sysBP,sysBP_x_log,0.024632391526855126,0.15287821307767294,Sin evidencia de no linealidad
+totChol,totChol_x_log,0.01823347415282264,0.004087980230855304,Posible no linealidad
+glucose,glucose_x_log,0.00906290682451105,0.12527341387105065,Sin evidencia de no linealidad
